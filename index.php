@@ -49,5 +49,5 @@ class Tabak {
     }
 
 }
-$tabak = new Tabak('TB.txt', 'fertigeListe.txt');
+$tabak = new Tabak('Tabak.txt', 'fertigeListe.txt');
 $tabak->makeList();
